@@ -321,7 +321,23 @@ form {
 /* Subscription form ends */
 
 /* Social icons */
+.social {
+  text-align: center;
+  margin: 2rem;
+}
+
+.socicons {
+  font-size: 1.3rem;
+}
+/*Social icons end*/
 
 /* Footer */
+
+footer {
+  border-top: 1px solid #f1f1f1;
+  box-shadow: 0px -2px 3px #f1f1f1;
+  text-align: center;
+  padding: 2rem;
+}
 
 /* Media Query */
