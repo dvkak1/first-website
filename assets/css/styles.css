@@ -97,9 +97,9 @@ ul {
 
 .label {
   width: 50px;
-  height: 25px; 
+  height: 29px;
   background-color: #111;
-  display:flex;
+  display: flex;
   align-items: center;
   justify-content: space-between;
   border-radius: 30px;
@@ -114,7 +114,7 @@ ul {
   left: 2px;
   height: 20px;
   width: 20px;
-  border-radius:50%;
+  border-radius: 50%;
 }
 
 .moon {
@@ -128,8 +128,8 @@ ul {
 .checkbox:checked + .label .switcher {
   transform: translateX(24px);
 }
-
 /* Dark theme ends */
+
 /* Navbar ends */
 
 /* Hero section starts */
